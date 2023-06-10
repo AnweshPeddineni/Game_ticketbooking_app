@@ -6,7 +6,7 @@
 ## Outdoor Game Ticket Booking Application
 
 ### Project Details
-This is a Web 2.0 application that will be built with the following frameworks and technologies on the server side:
+This is a Web 2.0 application that is built with the following frameworks and technologies on the server side:
 
 - Spring Boot
 - Annotated Controller
@@ -14,7 +14,7 @@ This is a Web 2.0 application that will be built with the following frameworks a
 - Annotated POJOs
 - DAO Pattern
 
-For the front end, JSP pages with HTML and CSS will be used to make the web application appealing and interactive for the user. The application will connect to a MySQL database using Hibernate as the ORM framework in the Spring Boot application.
+For the front end, JSP pages with HTML and CSS are used to make the web application appealing and interactive for the user. The application will connect to a MySQL database using Hibernate as the ORM framework in the Spring Boot application.
 
 The application will have two user roles: Admin and User.
 
